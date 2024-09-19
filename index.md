@@ -5,3 +5,7 @@
 ``` python
   print('some python code')
 ```
+
+- [x] item 1 (complete) 
+- [ ] item 2
+- [ ] item 3
